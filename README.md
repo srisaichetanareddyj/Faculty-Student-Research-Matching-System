@@ -1,4 +1,4 @@
-# Faculty_Student_Matching_System
+# Faculty_Student_Research_Matching_System
 
 A Python-based recommendation prototype that ranks faculty matches for prospective students using research interests, academic background, program goals, and faculty publication text.
 
