@@ -1,0 +1,16 @@
+Student,Rank,Recommended Faculty,Research Interest Score,Academic Background Score,Program Goal Score,Final Match Score
+Alice Johnson,1,Dr. Sarah Miller,0.554,1.0,0.94,0.679
+Alice Johnson,2,Dr. Michael Lee,0.0,1.0,0.121,0.168
+Alice Johnson,3,Dr. Robert Taylor,0.085,0.0,0.105,0.075
+Bob Smith,1,Dr. James Wilson,0.468,1.0,0.79,0.596
+Bob Smith,2,Dr. Sarah Miller,0.076,0.337,0.038,0.109
+Bob Smith,3,Dr. Robert Taylor,0.092,0.0,0.035,0.07
+Carol Williams,1,Dr. Emily Chen,0.468,1.0,0.943,0.619
+Carol Williams,2,Dr. Michael Lee,0.057,0.0,0.118,0.057
+Carol Williams,3,Dr. Sarah Miller,0.021,0.0,0.234,0.05
+David Brown,1,Dr. Michael Lee,0.411,1.0,0.793,0.556
+David Brown,2,Dr. Sarah Miller,0.0,1.0,0.045,0.157
+David Brown,3,Dr. James Wilson,0.0,0.337,0.051,0.058
+Emma Davis,1,Dr. Robert Taylor,0.375,1.0,0.111,0.429
+Emma Davis,2,Dr. James Wilson,0.289,0.0,0.596,0.291
+Emma Davis,3,Dr. Sarah Miller,0.094,0.0,0.461,0.135
