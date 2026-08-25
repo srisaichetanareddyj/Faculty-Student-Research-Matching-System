@@ -49,7 +49,7 @@ It also produces a final weighted student–faculty match-score heatmap.
 ## Installation
 
 ```bash
-git clone https://github.com/srisaichetanareddyj/Graduate-Student-Faculty-Research-Matching-System.git
+git clone https://github.com/srisaichetanareddyj/Faculty-Student-Research-Matching-System.git
 cd Faculty-Student-Research-Matching-System
 pip install pandas numpy matplotlib scikit-learn jupyter
 ```
