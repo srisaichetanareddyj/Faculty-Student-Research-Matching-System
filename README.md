@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 jupyter notebook
 ```
 
-Open `"Faculty_Student_Research_Matching_System.ipynb"` and run all cells from top to bottom.
+Open `Faculty_Student_Research_Matching_System.ipynb` and run all cells from top to bottom.
 
 ## Output
 
