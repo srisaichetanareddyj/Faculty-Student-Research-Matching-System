@@ -38,9 +38,9 @@ The system produces ranked and explainable recommendations:
 
 | Student | Rank | Recommended Faculty | Final Score |
 |---|---:|---|---:|
-| Alice Johnson | 1 | Dr. Sarah Miller | 0.XXX |
-| Alice Johnson | 2 | Dr. Robert Taylor | 0.XXX |
-| Alice Johnson | 3 | Dr. James Wilson | 0.XXX |
+| Alice Johnson | 1 | Dr. Sarah Miller | 0.68 |
+| Alice Johnson | 2 | Dr. Robert Taylor | 0.17 |
+| Alice Johnson | 3 | Dr. James Wilson | 0.08 |
 
 It also produces a final weighted student–faculty match-score heatmap.
 
@@ -50,7 +50,7 @@ It also produces a final weighted student–faculty match-score heatmap.
 
 ```bash
 git clone https://github.com/srisaichetanareddyj/Graduate-Student-Faculty-Research-Matching-System.git
-cd Graduate-Student-Faculty-Research-Matching-System
+cd Faculty-Student-Research-Matching-System
 pip install pandas numpy matplotlib scikit-learn jupyter
 ```
 
